@@ -23,5 +23,5 @@ A lightweight, console-based Library Management System built in C++ to demonstra
 ### Execution Steps
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/cpp-oop-library-management.git](https://github.com/YOUR_GITHUB_USERNAME/cpp-oop-library-management.git)
+   git clone [https://github.com/naveen-visk/cpp-oop-library-management.git](https://github.com/naveen-visk/cpp-oop-library-management.git)
    cd cpp-oop-library-management
